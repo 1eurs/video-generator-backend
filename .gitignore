@@ -1,0 +1,8 @@
+.git/
+.venv/
+__pycache__/
+assets/
+ml_models/
+aduio/
+video/
+images/
